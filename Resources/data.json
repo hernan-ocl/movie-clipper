@@ -1,0 +1,16 @@
+{
+	"FirstScan": "61",
+	"Log": [
+		{
+			"NfcId" : "0123456",
+			"Name" : "Felix Hu",
+			"TestingTimes" : [
+				180,
+				500
+			],
+			"SuccessTimes" : [
+				200
+			]
+		}
+	]
+}
